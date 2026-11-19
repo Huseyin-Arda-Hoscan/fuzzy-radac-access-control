@@ -1,0 +1,29 @@
+# Vagrant & VMware sanal makine imajları, gizli anahtarlar ve çalışma zamanı dosyaları
+.vagrant/
+*.vmdk
+*.vmx
+*.nvram
+*.log
+
+# Python önbellek ve derlenmiş dosyalar
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+
+# IDE dosyaları
+.idea/
+.vscode/
+
+# Yerel sunum oluşturucu ve kişisel/kurumsal sunum varlıkları
+build_presentation.py
+foto/
+*.pptx
+*.docx
+*.pdf
+~$*
+
+# İşletim sistemi geçici dosyaları
+.DS_Store
+Thumbs.db

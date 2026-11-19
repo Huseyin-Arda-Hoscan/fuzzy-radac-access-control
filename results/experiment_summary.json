@@ -1,0 +1,21 @@
+{
+  "scenario_1": {
+    "static_leaked_total": 87,
+    "adaptive_leaked_total": 19,
+    "quarantine_trigger_sec": 14.04
+  },
+  "scenario_2_avg_kbps": {
+    "Kademe_0_Tam_Erisim": 50006.6,
+    "Kademe_1_Hiz_Kisitlama_tc": 216.3,
+    "Kademe_2_Hassas_Servis_Engeli": 0.0,
+    "Kademe_3_Tam_Karantina": 0.0
+  },
+  "scenario_3": {
+    "pdp_static_avg_us": 1.08,
+    "pdp_adaptive_avg_us": 26.16,
+    "pep_rule_apply_avg_ms": 47.99,
+    "avg_http_rtt_ms": 14.99,
+    "false_quarantine_rate_pct": 0.0,
+    "legitimate_burst_allowed": "15/15"
+  }
+}

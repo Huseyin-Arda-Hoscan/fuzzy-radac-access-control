@@ -1,0 +1,7 @@
+{
+  "device_posture_risk": 10,
+  "off_hours": false,
+  "resource_sensitivity": 25,
+  "simulated_conn_rate_override": null,
+  "simulated_unique_ports_override": null
+}

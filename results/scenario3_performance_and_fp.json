@@ -1,0 +1,8 @@
+{
+  "avg_http_rtt_ms": 14.99,
+  "min_http_rtt_ms": 6.95,
+  "max_http_rtt_ms": 213.64,
+  "legitimate_burst_total": 15,
+  "legitimate_burst_allowed": 15,
+  "false_quarantine_rate_pct": 0.0
+}
